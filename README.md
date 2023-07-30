@@ -26,3 +26,4 @@ Telegram: https://t.me/Ruslan23rus1
 # Давайте вместе сражаться за успех в мире разработки! 🌟⚔️
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vokey-py&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vokey-py&layout=compact&theme=tokyonight)
+
